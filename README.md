@@ -22,10 +22,9 @@
 5. Create new Pull Request
 
 
-## Created By
+## This app is by;
 
-[Harsh Bhavsar](https://github.com/iharshb) ([@harshu_719](https://www.twitter.com/harshu_719)) 
-
+devika sasikumar
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
